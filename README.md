@@ -33,8 +33,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husam-Abdulraheem&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=husam&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=husam&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=Husam-Abdulraheem&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Husam-Abdulraheem&style=for-the-badge">
 </a>
